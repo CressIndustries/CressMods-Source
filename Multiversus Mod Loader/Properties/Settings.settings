@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Multiversus_Mod_Loader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ModsPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Steam\steamapps\common\MultiVersus\MultiVersus\Content\Paks\</Value>
+    </Setting>
+    <Setting Name="ColorSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> public Dictionary&lt;string, FieldColor&gt; colorSettings = new Dictionary&lt;string, FieldColor&gt;();</Value>
+    </Setting>
+    <Setting Name="black" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CressSettings\Settings.txt</Value>
+    </Setting>
+    <Setting Name="white" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\CressSettings\Settings.txt</Value>
+    </Setting>
+    <Setting Name="Form" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="myColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckBox1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CRPCON" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CRPCOFF" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
