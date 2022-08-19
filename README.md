@@ -10,6 +10,10 @@ Rily#0001
 
 https://github.com/Oxuu1
 
+# Credit 
+
+If you are going to use  it make sure to give us credit
+
 # Whats it for
 
 The mod loader was made for Multiverus
